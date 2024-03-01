@@ -1,2 +1,3 @@
-"*~" 
-"_book" 
+package.json
+package-lock.json
+.bookingnore
